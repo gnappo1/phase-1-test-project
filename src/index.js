@@ -1,3 +1,4 @@
+console.log ('hello')
 fetch()
 .then()
 .then()
